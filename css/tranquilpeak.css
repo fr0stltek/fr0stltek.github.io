@@ -166,11 +166,11 @@ dl {
 
 a, a:hover, a:active, a:visited {
   cursor: pointer;
-  color: #349ef3;
+  color: #1e5494;
   text-decoration: none;
 }
 a:hover {
-  color: #349ef3;
+  color: #1e5494;
   text-decoration: underline;
 }
 
@@ -3244,13 +3244,13 @@ a.tag--success:hover,
 
 a.tag--primary,
 .tag--primary {
-  color: #349ef3 !important;
-  border: 1px solid #349ef3;
+  color: #1e5494 !important;
+  border: 1px solid #1e5494;
 }
 a.tag--primary:hover,
 .tag--primary:hover {
-  color: #0c78ce !important;
-  border: 1px solid #0c78ce;
+  color: #113054 !important;
+  border: 1px solid #113054;
   text-decoration: none;
 }
 
@@ -3367,7 +3367,7 @@ a.tag--small,
 }
 
 .text-color-link {
-  color: #349ef3 !important;
+  color: #1e5494 !important;
 }
 
 .font-merryweather {

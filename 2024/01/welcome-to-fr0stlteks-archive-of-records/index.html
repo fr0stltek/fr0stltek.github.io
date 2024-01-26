@@ -11,8 +11,8 @@
   
   "image": "//img.qwq.nz/images/2024/01/25/b7097d3c58d4dbe730fcc487bf732a2d.jpg",
   
-  "datePublished": "2024-01-25T00:00:00Z",
-  "dateModified": "2024-01-25T00:00:00Z",
+  "datePublished": "2024-01-26T06:15:27+08:00",
+  "dateModified": "2024-01-26T06:15:27+08:00",
   "author": {
     "@type": "Person",
     "name": "Fr0stalline Tech",
@@ -60,10 +60,10 @@
 <meta property="og:locale" content="zh-cn">
 
   
-    <meta property="article:published_time" content="2024-01-25T00:00:00">
+    <meta property="article:published_time" content="2024-01-26T06:15:27">
   
   
-    <meta property="article:modified_time" content="2024-01-25T00:00:00">
+    <meta property="article:modified_time" content="2024-01-26T06:15:27">
   
   
   
@@ -117,7 +117,7 @@
     
     
     
-    <link rel="stylesheet" href="https://fr0stltek.github.io/css/style-mxmdi6m1u5g8p2q9wfodwpw9i80jd6lxyywytjkxzc42tfbcums6oijt9f.min.css" />
+    <link rel="stylesheet" href="https://fr0stltek.github.io/css/style-ppquki6tzubiku6k8rlgcnyvdx7neevzzit6enbu2ud6dauwuy7genkhtp.min.css" />
     
     
 
@@ -228,6 +228,16 @@
     </a>
   </li>
 
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="http://fr0stltek.github.io/2024/01/welcome-to-fr0stlteks-archive-of-records/#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5" target="_blank" rel="noopener" title="Friend Links">
+    
+      <i class="sidebar-button-icon far fa-solid fa-user-group"></i>
+      
+      <span class="sidebar-button-desc">友情链接</span>
+    </a>
+  </li>
+
 
     </ul>
     <ul class="sidebar-buttons">
@@ -263,9 +273,9 @@
   
   <div class="postShorten-meta post-meta">
     
-      <time datetime="2024-01-25T00:00:00Z">
+      <time datetime="2024-01-26T06:15:27&#43;08:00">
         
-  一月 25, 2024
+  一月 26, 2024
 
       </time>
     
@@ -298,20 +308,110 @@
 <h1 id="table-of-contents">目录</h1>
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#友情链接">友情链接</a>
-      <ul>
-        <li><a href="#fr0stlteks-archive-of-records">Fr0stltek&rsquo;s Archive Of Records</a></li>
-      </ul>
-    </li>
+    <li><a href="#友情链接">友情链接</a></li>
   </ul>
 </nav>
 
 <hr>
 <h1 id="友情链接">友情链接</h1>
 <p>可以直接来github的issue下通知项目维护者哦~~提供头图图链+名称+链接即可。</p>
-<p>下为格式展示↓</p>
-<h2 id="fr0stlteks-archive-of-records">Fr0stltek&rsquo;s Archive Of Records</h2>
-<p><a href="https://fr0stlline.github.io/records"><img src="https://avatars.githubusercontent.com/u/111233212" alt="Fr0stltek&rsquo;s Archive Of Records"></a></p>
+<style type="text/css">
+    .friends {
+        --link-count-per-row: 1;
+    }
+
+    @media screen and (min-width: 576px) {
+        .friends {
+            --link-count-per-row: 2;
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        .friends {
+            --link-count-per-row: 3;
+        }
+    }
+
+    .friends {
+        display: grid;
+        grid-template-columns: repeat(var(--link-count-per-row), 1fr);
+        grid-gap: 16px;
+    }
+
+     
+    .friend-skeleton {
+        height: 340px;
+        display: inline-block;
+        position: relative;
+    }
+
+    .friend {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: 0.67s cubic-bezier(0.19, 1, 0.22, 1);
+        border-radius: var(--radius);
+        box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2),
+            0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12) !important;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .friend:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2),
+            0 5px 8px 0 rgba(0, 0, 0, 0.14), 0 1px 14px 0 rgba(0, 0, 0, 0.12) !important;
+    }
+
+    .friend-avatar {
+        object-fit: center;
+        padding: 25px;
+        width: 100%;
+        height: 180px;
+        margin: 0 !important;
+        border-radius: 0 !important;
+    }
+    .friend-content {
+        text-align: center;
+        flex: 1;
+        width: 100%;
+        padding: 20px;
+        background: var(--entry);
+        transform: translate3d(0, 0, 0);
+    }
+
+    .friend-name {
+        font-size: 2rem;
+        font-weight: bold;
+        transform: inherit;
+    }
+
+    .friend-description {
+        font-size: 1.5rem;
+        color: var(--secondary);
+        transform: translate3d(0, 0, 0);
+    }
+</style>
+<div class="friends">
+    
+    <div class="friend-skeleton">
+        <a href="https://fr0stltek.github.io/" target="_blank">
+            <div class="friend">
+                <img class="friend-avatar" src="https://avatars.githubusercontent.com/u/111233212?v=4" />
+                <div class="friend-content">
+                    <div class="friend-name">Fr0stalline Tech</div>
+                    <div class="friend-description">ACGN/Tech - Where Passion Unites</div>
+                </div>
+            </div>
+        </a>
+    </div>
+    
+</div>
               
 
 
@@ -348,7 +448,7 @@
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--disabled">
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://fr0stltek.github.io/2024/01/how-to-xunfu-tranquilpeak-in-a-traditional-way/" data-tooltip="How to Xunfu Tranquilpeak in a Traditional Way" aria-label="上一篇: How to Xunfu Tranquilpeak in a Traditional Way">
           
               <span class="hide-xs hide-sm text-small icon-mr">上一篇</span>
               <i class="fa fa-angle-right"></i>
@@ -419,7 +519,7 @@
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--disabled">
+            <a class="post-action-btn btn btn--default tooltip--top" href="https://fr0stltek.github.io/2024/01/how-to-xunfu-tranquilpeak-in-a-traditional-way/" data-tooltip="How to Xunfu Tranquilpeak in a Traditional Way" aria-label="上一篇: How to Xunfu Tranquilpeak in a Traditional Way">
           
               <span class="hide-xs hide-sm text-small icon-mr">上一篇</span>
               <i class="fa fa-angle-right"></i>
@@ -533,7 +633,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
-<script src="https://fr0stltek.github.io/js/script-evfias06mrggzvxsnvx2yit4ofcqhr8c1u3ptmjfs0gzsj7jyol5iaix3.min.js"></script>
+<script src="https://fr0stltek.github.io/js/script-neako8qbzcsqufjl99cdo7ctgzfb6ze5fgvjhbey5vu6heuskxwpptjgijv.min.js"></script>
 
 
   
