@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fr0stltek&#39;s Archive Of Records</title>
-    <link>https://fr0stltek.github.io/posts/</link>
+    <link>https://fr0stltek.5140293.xyz/posts/</link>
     <description>Recent content in Posts on Fr0stltek&#39;s Archive Of Records</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 27 Jan 2024 11:15:27 +0800</lastBuildDate>
-    <atom:link href="https://fr0stltek.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fr0stltek.5140293.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Fr0stltek&#39;s Archive Of Records</title>
-      <link>https://fr0stltek.github.io/2024/01/welcome-to-fr0stlteks-archive-of-records/</link>
+      <link>https://fr0stltek.5140293.xyz/2024/01/welcome-to-fr0stlteks-archive-of-records/</link>
       <pubDate>Sat, 27 Jan 2024 11:15:27 +0800</pubDate>
-      <guid>https://fr0stltek.github.io/2024/01/welcome-to-fr0stlteks-archive-of-records/</guid>
+      <guid>https://fr0stltek.5140293.xyz/2024/01/welcome-to-fr0stlteks-archive-of-records/</guid>
       <description>&lt;p&gt;Fr0stltek&amp;rsquo;s Archive Of Records 是 Fr0stltek 各类研究的记录合集。&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Xunfu Tranquilpeak in a Traditional Way</title>
-      <link>https://fr0stltek.github.io/2024/01/how-to-xunfu-tranquilpeak-in-a-traditional-way/</link>
+      <link>https://fr0stltek.5140293.xyz/2024/01/how-to-xunfu-tranquilpeak-in-a-traditional-way/</link>
       <pubDate>Fri, 26 Jan 2024 06:05:27 +0800</pubDate>
-      <guid>https://fr0stltek.github.io/2024/01/how-to-xunfu-tranquilpeak-in-a-traditional-way/</guid>
+      <guid>https://fr0stltek.5140293.xyz/2024/01/how-to-xunfu-tranquilpeak-in-a-traditional-way/</guid>
       <description>&lt;p&gt;本文主要介绍如何以传统方法部署 hugo 博客并进行略深程度的自定义。&lt;/p&gt;</description>
     </item>
   </channel>

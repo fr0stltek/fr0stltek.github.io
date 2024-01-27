@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fr0stltek&#39;s Archive Of Records</title>
-    <link>https://fr0stltek.github.io/categories/</link>
+    <link>https://fr0stltek.5140293.xyz/categories/</link>
     <description>Recent content in Categories on Fr0stltek&#39;s Archive Of Records</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 27 Jan 2024 11:15:27 +0800</lastBuildDate>
-    <atom:link href="https://fr0stltek.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fr0stltek.5140293.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>announcements</title>
-      <link>https://fr0stltek.github.io/categories/announcements/</link>
+      <link>https://fr0stltek.5140293.xyz/categories/announcements/</link>
       <pubDate>Sat, 27 Jan 2024 11:15:27 +0800</pubDate>
-      <guid>https://fr0stltek.github.io/categories/announcements/</guid>
+      <guid>https://fr0stltek.5140293.xyz/categories/announcements/</guid>
       <description></description>
     </item>
     <item>
       <title>tech_experience</title>
-      <link>https://fr0stltek.github.io/categories/tech_experience/</link>
+      <link>https://fr0stltek.5140293.xyz/categories/tech_experience/</link>
       <pubDate>Fri, 26 Jan 2024 06:05:27 +0800</pubDate>
-      <guid>https://fr0stltek.github.io/categories/tech_experience/</guid>
+      <guid>https://fr0stltek.5140293.xyz/categories/tech_experience/</guid>
       <description></description>
     </item>
   </channel>
