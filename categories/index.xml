@@ -6,15 +6,8 @@
     <description>Recent content in Categories on Fr0stltek&#39;s Archive Of Records</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 01 Aug 2025 13:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 13:09:00 +0800</lastBuildDate>
     <atom:link href="https://fr0stltek.5140293.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Announcements</title>
-      <link>https://fr0stltek.5140293.xyz/categories/announcements/</link>
-      <pubDate>Fri, 01 Aug 2025 13:25:00 +0800</pubDate>
-      <guid>https://fr0stltek.5140293.xyz/categories/announcements/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Recipes</title>
       <link>https://fr0stltek.5140293.xyz/categories/recipes/</link>
@@ -30,17 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>MLLSSNKProject</title>
-      <link>https://fr0stltek.5140293.xyz/categories/mllssnkproject/</link>
-      <pubDate>Wed, 31 Jan 2024 23:21:24 +0800</pubDate>
-      <guid>https://fr0stltek.5140293.xyz/categories/mllssnkproject/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Translations</title>
-      <link>https://fr0stltek.5140293.xyz/categories/translations/</link>
-      <pubDate>Wed, 31 Jan 2024 23:21:24 +0800</pubDate>
-      <guid>https://fr0stltek.5140293.xyz/categories/translations/</guid>
+      <title>Announcements</title>
+      <link>https://fr0stltek.5140293.xyz/categories/announcements/</link>
+      <pubDate>Thu, 01 Feb 2024 04:08:22 +0800</pubDate>
+      <guid>https://fr0stltek.5140293.xyz/categories/announcements/</guid>
       <description></description>
     </item>
   </channel>
